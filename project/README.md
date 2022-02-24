@@ -5,3 +5,4 @@ Since I love design, I love websites that showcase other designer's work where I
 ## Website Creation
 I'd like to create a portfolio site where I can showcase my photography and design work I've done over the past years. My goals for this site is to have an about me section, contact page, and portfolio showcase. I'd like it to be a place where anyone visiting it can know more about me and the work I do.
 ## Draft Estimate
+I'd like to have the main HTML content complete by 03/16.

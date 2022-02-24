@@ -1,5 +1,4 @@
  # Todd Herbert
- 
  ## About Todd
 Todd Herbert is a student of Golden State Baptist College studying Assistant Pastoral with a minor in Media. He was born in Meriville, IN, but grew up in Stockton, CA. In 2017, he moved to Santa Clara, CA for college. He is the second oldest of four total siblings. He interests include graphic design, videography, photography, watching football, putting Siracha on everything, and trying new energy drinks.
 ## Website Inspiration
