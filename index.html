@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Todd's Portfolio</title>
     </head>
     <body>
@@ -16,12 +18,20 @@
         <br>
         <h1>Site Links</h1>
         <ul>
-            <li><a href="#"></a>About Me</li>
+            <li><a href="#">About Me</a></li>
             <li><a href="#">My Work</a></li>
             <li><a href="#">Contact Me</a></li>
         </ul>
         <br>
         <h1>My First Program</h1>
+                <script>
+            // Print the numbers 1 to 100 and add them as paragraph elements to the DOM.
+            for (let i = 0; i <= 100; i++) {
+                let node = document.createElement('p')
+                node.textContent = i.toString()
+                document.body.appendChild(node)
+            }
+        </script>
 
     </body>
 </html>
