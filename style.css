@@ -7,3 +7,7 @@ ul {
 li {
     display: inline;
 }
+
+.hero {
+  text-align: center;
+}
