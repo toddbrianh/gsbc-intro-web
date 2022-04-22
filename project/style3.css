@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #000;
+    line-height: 1.6;
+}
+
+#showcase {
+    background-color: #eee;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 200px;
+    height: 100vh;
+}
+
+#showcase h1 {
+    font-size: 50px;
+    line-height: 1.2;
+}
+
+#showcase p {
+    font-size: 20px;
+}
+
+#showcase .button {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#showcase .button:hover {
+    background: rgb(0, 0, 0);
+    color: #ffffff;
+}
+
+#section-a {
+    background-image: url(images/baby.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#section-b {
+    background-image: url(images/us.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#section-c {
+    background-image: url(images/us.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#section-d {
+    background-image: url(images/tract.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#section-e {
+    background-image: url(images/reign.png);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#section-f {
+    background-image: url(images/steelers.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#section-g {
+    background-image: url(images/bus.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#section-h {
+    background-image: url(images/apple.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#section-i {
+    background-image: url(images/wyoming.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
