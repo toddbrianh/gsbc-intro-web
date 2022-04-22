@@ -110,3 +110,31 @@ body {
     height: 900px;
 }
 
+h1, p , h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+}
+
+#intergers {
+    text-align: left;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#largest {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sum {
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
