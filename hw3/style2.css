@@ -46,3 +46,10 @@ body {
     background: #eee;
     color: #808080;
 }
+
+#section-a {
+    background-image: url(map.png);
+    background-size: cover;
+    background-position: center;
+    height: 1500px;
+}
